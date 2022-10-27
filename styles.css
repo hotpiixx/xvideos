@@ -38,3 +38,9 @@ img {
 h1 {
   color: white;
 }
+video {
+  max-width: 600px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
